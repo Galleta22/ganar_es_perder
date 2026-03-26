@@ -29,3 +29,6 @@ PC (Windows)
 
 ## Estado del proyecto
 Prototipo / Idea definida
+
+## Flujo de trabajo
+Ver [CONTRIBUTING.md](CONTRIBUTING.md) para la guía de ramas y Git Flow del equipo.
