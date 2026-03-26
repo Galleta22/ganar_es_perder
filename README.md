@@ -7,7 +7,7 @@ Juego 2D de casino con poderes. Incluye minijuegos como Blackjack y Tragamonedas
 Casino / Roguelite de minijuegos
 
 ## Plataforma objetivo
-PC (Windows / Mac)
+PC (Windows)
 
 ## Tecnologías
 - Unity 2D
